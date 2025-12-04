@@ -7,4 +7,3 @@ minh1997pltn-commits
 **email**
 minh1997pltn@gmail.com
 
-Wrong text
