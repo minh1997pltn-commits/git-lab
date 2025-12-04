@@ -1,2 +1,9 @@
-Full name: DANG QUANG MINH
-Github username: minh1997pltn-commits
+**full name**
+Nguyễn Văn A
+
+**GitHub username**
+minh1997pltn-commits
+
+**email**
+minh1997pltn@gmail.com
+
